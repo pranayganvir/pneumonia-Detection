@@ -38,12 +38,10 @@ This project is a **Streamlit web application** that detects **pneumonia** from 
 - 🏗️ The deep learning model is trained using **VGG19**, a pre-trained convolutional neural network model.
 - 🔄 **Transfer learning** was applied to fine-tune the model for pneumonia detection.
 - 💾 The model has been saved as `best_model.h5` and is loaded into the application for predictions.
-
-**🔹 Note:** You can easily generate `best_model.h5` by training the model using the provided dataset and scripts.
-
 - 🏗️ The deep learning model is trained using **VGG19**, a pre-trained convolutional neural network model.
 - 🔄 **Transfer learning** was applied to fine-tune the model for pneumonia detection.
 - 💾 The model has been saved as `best_model.h5` and is loaded into the application for predictions.
+- **🔹 Note:** You can easily generate `best_model.h5` by training the model using the provided dataset and scripts.
 
 ### 📊 Dataset
 
