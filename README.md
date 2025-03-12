@@ -77,9 +77,15 @@ The model was trained using the **Chest X-Ray dataset**, which can be accessed a
 
 ## 🖼️ Screenshots
 
+### 📌 Interface
+
 ![App Screenshot](https://github.com/pranayganvir/pneumonia-Detection/blob/main/Sceenshots/Screenshot%202025-03-12%20165103.png)
 
+### 📌 Normal Image
+
 ![App Screenshot](https://github.com/pranayganvir/pneumonia-Detection/blob/main/Sceenshots/Screenshot%202025-03-12%20165042.png)
+
+### 📌 Pneumonia Detected Image
 
 ![App Screenshot](https://github.com/pranayganvir/pneumonia-Detection/blob/main/Sceenshots/Screenshot%202025-03-12%20164955.png)
 
